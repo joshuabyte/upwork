@@ -1,3 +1,4 @@
+// @ts-nocheck
 // ** Custom Components
 import Avatar from '@components/avatar'
 

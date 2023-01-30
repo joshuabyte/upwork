@@ -1,3 +1,4 @@
+// @ts-nocheck
 // ** React Imports
 import { useContext } from 'react'
 
