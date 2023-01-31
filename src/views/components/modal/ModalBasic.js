@@ -1,3 +1,4 @@
+// @ts-nocheck
 // ** React Imports
 import { Fragment, useState } from 'react'
 
