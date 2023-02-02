@@ -1,3 +1,4 @@
+// @ts-nocheck
 // ** Reactstrap Imports
 import { Toast, ToastBody, ToastHeader, Spinner, Row, Col } from 'reactstrap'
 
